@@ -1,68 +1,166 @@
-# Edition
+[[top]]
 
-Product documentation template for Jekyll. Browse through a [live demo](https://long-pig.cloudvent.net/).
-Start documenting your product, application, service or website with this configurable theme.
+https://github.com/github_username/repo_name/graphs/contributors[image:https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge[Contributors]]
+https://github.com/github_username/repo_name/network/members[image:https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge[Forks]]
+https://github.com/github_username/repo_name/stargazers[image:https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge[Stargazers]]
+https://github.com/github_username/repo_name/issues[image:https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge[Issues]]
+https://github.com/github_username/repo_name/blob/master/LICENSE.txt[image:https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge[MIT
+License]]
+https://linkedin.com/in/linkedin_username[image:https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555[LinkedIn]]
 
-![Edition template screenshot](images/_screenshot.png)
+project_title
 
-Edition was made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll.
+project_description Explore the docs » View Demo · Report Bug · Request
+Feature
 
-Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Academy](https://learn.cloudcannon.com/).
+Table of Contents
 
-[![Deploy to CloudCannon](https://buttons.cloudcannon.com/deploy.svg)](https://app.cloudcannon.com/register#sites/connect/github/CloudCannon/edition-jekyll-template)
+About The Project
 
-## Features
+Built With
 
-* Two column layout
-* Full text search
-* Pre-styled components
-* Auto-generated navigation based on category
-* Optimised for editing in [CloudCannon](http://cloudcannon.com/)
-* Change log
-* RSS/Atom feed
-* SEO tags
-* Google Analytics
+Getting Started
 
-## Setup
+Prerequisites
 
-1. Add your site and author details in `_config.yml`.
-2. Get a workflow going to see your site's output (with [CloudCannon](https://app.cloudcannon.com/) or Jekyll locally).
+Installation
 
-## Develop
+Usage
 
-Edition was built with [Jekyll](http://jekyllrb.com/) version 3.3.1, but should support newer versions as well.
+Roadmap
 
-Install the dependencies with [Bundler](http://bundler.io/):
+Contributing
 
-~~~bash
-$ bundle install
-~~~
+License
 
-Run `jekyll` commands through Bundler to ensure you're using the right versions:
+Contact
 
-~~~bash
-$ bundle exec jekyll serve
-~~~
+Acknowledgments
 
-## Editing
+== About The Project
 
-Edition is already optimised for adding, updating and removing documentation pages in CloudCannon.
+https://example.com[image:images/screenshot.png[Product Name Screen
+Shot]]
 
-### Documentation pages
+Here’s a blank template to get started: To avoid retyping too much info.
+Do a search and replace with your text editor for the following:
+`github_username`, `repo_name`, `twitter_handle`, `linkedin_username`,
+`email_client`, `email`, `project_title`, `project_description`
 
-* Add, update or remove a documentation page in the *Documentation* collection.
-* Change the category of a documentation page to move it to another section in the navigation.
-* Documentation pages are organised in the navigation by category, with URLs based on the path inside the `_docs` folder.
+(back to top)
 
-### Change log
+=== Built With
 
-* Add, update or remove change log entries from your posts.
-* Tag entries as minor or major in the front matter.
+* https://nextjs.org/[Next.js]
+* https://reactjs.org/[React.js]
+* https://vuejs.org/[Vue.js]
+* https://angular.io/[Angular]
+* https://svelte.dev/[Svelte]
+* https://laravel.com[Laravel]
+* https://getbootstrap.com[Bootstrap]
+* https://jquery.com[JQuery]
 
-### Search
+(back to top)
 
-* Add `excluded_in_search: true` to any documentation page's front matter to exclude that page in the search results.
+== Getting Started
 
-### Navigation
+This is an example of how you may give instructions on setting up your
+project locally. To get a local copy up and running follow these simple
+example steps.
 
-* Change `site.show_full_navigation` to control all or only the current navigation group being open.
+=== Prerequisites
+
+This is an example of how to list things you need to use the software
+and how to install them. * npm `sh   npm install npm@latest -g`
+
+=== Installation
+
+[arabic]
+. Get a free API Key at https://example.com
+. Clone the repo
++
+[source,sh]
+----
+git clone https://github.com/github_username/repo_name.git
+----
+. Install NPM packages
++
+[source,sh]
+----
+npm install
+----
+. Enter your API in `config.js`
++
+[source,js]
+----
+const API_KEY = 'ENTER YOUR API';
+----
+
+(back to top)
+
+== Usage
+
+Use this space to show useful examples of how a project can be used.
+Additional screenshots, code examples and demos work well in this space.
+You may also link to more resources.
+
+_For more examples, please refer to the
+https://example.com[Documentation]_
+
+(back to top)
+
+== Roadmap
+
+* ☐ Feature 1
+* ☐ Feature 2
+* ☐ Feature 3
+** ☐ Nested Feature
+
+See the https://github.com/github_username/repo_name/issues[open issues]
+for a full list of proposed features (and known issues).
+
+(back to top)
+
+== Contributing
+
+Contributions are what make the open source community such an amazing
+place to learn, inspire, and create. Any contributions you make are
+*greatly appreciated*.
+
+If you have a suggestion that would make this better, please fork the
+repo and create a pull request. You can also simply open an issue with
+the tag ``enhancement''. Don’t forget to give the project a star! Thanks
+again!
+
+[arabic]
+. Fork the Project
+. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+. Push to the Branch (`git push origin feature/AmazingFeature`)
+. Open a Pull Request
+
+(back to top)
+
+== License
+
+Distributed under the MIT License. See `LICENSE.txt` for more
+information.
+
+(back to top)
+
+== Contact
+
+Your Name - https://twitter.com/twitter_handle[@twitter_handle] -
+email@email_client.com
+
+Project Link: https://github.com/github_username/repo_name
+
+(back to top)
+
+== Acknowledgments
+
+* link:[]
+* link:[]
+* link:[]
+
+(back to top)
