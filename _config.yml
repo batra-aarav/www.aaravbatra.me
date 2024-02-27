@@ -1,23 +1,22 @@
 # ----
 # Site
 
-title: Edition Template
-url: "https://long-pig.cloudvent.net"
-baseurl:
-google_analytics_key:
+title: Aarav Batra's Portfolio
+url: "htts://batra-aarav.github.io"
 show_full_navigation: true
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Product documentation template for Jekyll.
-author:
-  name:
-  email:
-  twitter: # twitter username without the @ symbol
+description: Aarav Batra's Personal Portfolio
+author: Aarav Batra
+  name: Aarav Batra
+  email: batra.aarav@outlook.com
+  twitter: aaravbatra_56
 social:
-  name: Edition Template
+  name: Aarav Batra
   links:
-    - https://github.com/CloudCannon/edition-jekyll-template
+    - https://batra-aarav.github.io
+    - https://www.linkedin.com/in/aarav-batra-a0abaa2a4/
 
 # -----
 # Build
@@ -70,9 +69,6 @@ defaults:
     values:
       _comments:
         type: Marks the impact of this release
-
-# -----------
-# CloudCannon
 
 types:
   - minor
