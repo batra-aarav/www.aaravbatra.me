@@ -8,7 +8,7 @@ show_full_navigation: true
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
 description: Aarav Batra's Personal Portfolio
-author: Aarav Batra
+author:
   name: Aarav Batra
   email: batra.aarav@outlook.com
   twitter: aaravbatra_56
