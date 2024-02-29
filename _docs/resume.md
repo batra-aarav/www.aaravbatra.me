@@ -24,7 +24,7 @@ Engineering and Arduino Programming
    * Engineering and developed an automatic caring flower pot.
 
 ### EDUCATION
-East Brunswick High School – Junior - 2021 - 2025
+East Brunswick High School – Junior – Class of 2025
 * AP Computer Science A, AP Computer Science Principles, S.T.E.M. II, S.T.E.M I, Electronics Engineering, Developing Student Leaders Honors, and Introduction to Computer Science.
 ### Clubs and Activities
 * Code Club as a member in Hour of Code
