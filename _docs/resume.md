@@ -1,7 +1,7 @@
 ---
 title: Resume
-category: About Me
-order: 1
+category: Personal Information
+order: 2
 ---
 # Aarav Batra
 ## batra.aarav@outlook.com 
