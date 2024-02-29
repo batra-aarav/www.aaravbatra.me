@@ -1,5 +1,5 @@
 # Aarav Batra
-## batra.aarav@outlook.com ❖ (848) - 448 - 6348 ❖ East Brunswick, NJ
+## batra.aarav@outlook.com ❖ East Brunswick, NJ
 
 ### PORTFOLIO OVERVIEW
 
