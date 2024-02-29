@@ -1,6 +1,6 @@
 ---
 title: Resume
-category: Personal Information
+category: About
 order: 2
 ---
 # Aarav Batra
