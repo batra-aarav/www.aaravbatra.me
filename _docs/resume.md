@@ -4,8 +4,7 @@ category: Personal Information
 order: 2
 ---
 # Aarav Batra
-## batra.aarav@outlook.com 
-## East Brunswick, NJ
+## batra.aarav@outlook.com<br>East Brunswick, NJ
 
 ### PORTFOLIO OVERVIEW
 
