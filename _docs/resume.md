@@ -4,7 +4,8 @@ category: About Me
 order: 1
 ---
 # Aarav Batra
-## batra.aarav@outlook.com ❖ East Brunswick, NJ
+## batra.aarav@outlook.com 
+## East Brunswick, NJ
 
 ### PORTFOLIO OVERVIEW
 
