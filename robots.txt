@@ -15,13 +15,14 @@ Allow: /
 User-agent: Googlebot
 Allow: /
 
-User-agent: Slurp # yahoo crawler
+# yahoo crawler
+User-agent: Slurp
 Allow: /
 
 User-agent: Yandexbot
 Allow: /
 
-# explicitly block archive(dot)org robot
+# explicitly block archive.org robot
 User-agent: archive.org_bot
 Disallow: /
 
