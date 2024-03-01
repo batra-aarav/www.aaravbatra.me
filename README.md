@@ -47,7 +47,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Personal Portfolio
+Professional Personal Portfolio hosted by the courtesy of GitHub Pages.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
