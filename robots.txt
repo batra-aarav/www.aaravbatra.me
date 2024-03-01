@@ -21,7 +21,7 @@ Allow: /
 User-agent: Yandexbot
 Allow: /
 
-# block archive(dot)org robot
+# explicitly block archive(dot)org robot
 User-agent: archive.org_bot
 Disallow: /
 
