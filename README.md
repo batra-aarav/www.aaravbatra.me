@@ -79,7 +79,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Aarav Batra - batra.aarav@outlook.com
+Aarav Batra - aaravbatra@duck.com
 
 Project Link: [https://github.com/batra-aarav/batra-aarav.github.io](https://github.com/batra-aarav/batra-aarav.github.io)
 
