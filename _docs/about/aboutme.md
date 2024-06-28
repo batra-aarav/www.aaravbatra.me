@@ -1,5 +1,7 @@
 ---
-title: About The Portfolio
+title: About Me
+category: About
+order: 1
 ---
 My name is Aarav Batra. I am the class of 2025 at East Brunswick High School. I have participated in many of my High School's programs such as Varsity Football, Future Business Leaders of America (FBLA), Code Club, and Palette Club. I have also received an award and grant from the East Brunswick Education Foundation for creating a positive learning environment at East Brunswick. I like to program in my free time and I have many projects you can feel free to check out. My main interests are at the intersection of computer science, business, and exercise science/kinesiology.
 
