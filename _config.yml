@@ -2,26 +2,31 @@
 # Site
 
 title: Aarav Batra's Portfolio
-url: "htts://batra-aarav.github.io"
+url: "https://www.aaravbatra.me"
 show_full_navigation: true
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Aarav Batra's Personal Portfolio
+description: Aarav Batra's Portfolio
 author:
   name: Aarav Batra
-  email: batra.aarav@outlook.com
+  email: aaravbatra@duck.com
   twitter: aaravbatra_56
 social:
   name: Aarav Batra
   links:
-    - https://batra-aarav.github.io
+    - https://www.aaravbatra.me
+    - https://recruit.aaravbatra.me
+    - https://links.aaravbatra.me
+    - https://www.hudl.com/profile/18010632/Aarav-Batra
+    - https://x.com/aaravbatra_56
+    - https://www.instagram.com/aaravbatra_56/
     - https://www.linkedin.com/in/aarav-batra-a0abaa2a4/
 
 # -----
 # Build
 
-timezone: Etc/UTC
+timezone: ETC/UTC
 
 permalink: pretty
 
