@@ -2,27 +2,7 @@
 layout: null
 sitemap: false
 ---
-# allow search engines
-User-agent: Baiduspider
-Allow: /
 
-User-agent: Bingbot
-Allow: /
-
-User-agent: DuckDuckBot
-Allow: /
-
-User-agent: Googlebot
-Allow: /
-
-# yahoo crawler
-User-agent: Slurp
-Allow: /
-
-User-agent: Yandexbot
-Allow: /
-
-# explicitly block archive.org robot
 User-agent: archive.org_bot
 Disallow: /
 
@@ -30,8 +10,4 @@ User-agent: ia_archiver
 Disallow: /
 
 User-agent: ia_archiver-web.archive.org
-Disallow: /
-
-# disallow all other user agents
-User-agent: *
 Disallow: /
