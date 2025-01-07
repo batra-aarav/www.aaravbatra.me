@@ -4,8 +4,6 @@ category: Athletic Recruiting
 order: 3
 ---
 
-# Questionnaire - Athletic Recruiting
-
 I have answered the most common questions across Recruit Questionnaires below.
 
 ### Personal Information
@@ -54,5 +52,3 @@ I have answered the most common questions across Recruit Questionnaires below.
 Class of 2025, QB/LS, 6' 3", 220 lbs., 5.2 sec. 40 yd. Dash, 185 lbs. Bench, 315 lbs. Squat, and 375 lbs. Deadlift.
 
 [Contact Me](./contact-me)
-
-Made with ❤️ and Copyrighted © 2024 by Aarav Batra
