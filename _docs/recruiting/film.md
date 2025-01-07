@@ -4,8 +4,6 @@ category: Athletic Recruiting
 order: 2
 ---
 
-# Film - Athletic Recruiting
-
 I'm ready to take my game to the next level! Click to watch my film playlist below:
 
 My film consists of practice film such as throwing and long snapping repetitions. 
@@ -19,13 +17,3 @@ I work hard in the gym on bench press, squat, deadlift, and other accessory hype
 Class of 2025, QB/LS, 6' 3", 220 lbs., 5.2 sec. 40 yd. Dash, 185 lbs. Bench, 315 lbs. Squat, and 375 lbs. Deadlift.
 
 [Contact Me](./contact-me)
-
-## Site Footer
-
-- [Home](./)
-- [Academics](./academics)
-- [About Me](./about-me)
-- [Questionnaire](./questionnaire)
-- [Contact Me](./contact-me)
-
-Made with ❤️ and Copyrighted © 2024 by Aarav Batra
