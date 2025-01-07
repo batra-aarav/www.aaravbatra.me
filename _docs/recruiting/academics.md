@@ -9,7 +9,6 @@ I am in the Class of 2025, where I have achieved Honor Roll and Student of the M
 My GPA is available [here](mailto:aaravbatra@duck.com?subject=Request%20for%20GPA), and my transcript is available [here](mailto:aaravbatra@duck.com?subject=Request%20for%20Transcript). 
 My SAT can be viewed [here](mailto:aaravbatra@duck.com?subject=Request%20for%20SAT%20Score), which is also officially verified through NCAA ID# **2409420920**.
 
-## Academics
 
 At my alma mater, I have participated for 3 years in the Varsity Football Program as a Quarterback and Long Snapper, 2 years in Future Business Leaders of America (FBLA) as a middle school chapter coordinator, photographer, and chapter member, 1 year in Family, Consumer, and Community Leaders of America (FCCLA) as a chapter member, 1 year in Code Club as an Hour of Code Organizer, and 1 year in Palette Club as the Club Ambassador. 
 I have academically received achievements of Honor Roll and Student of the Month. 
