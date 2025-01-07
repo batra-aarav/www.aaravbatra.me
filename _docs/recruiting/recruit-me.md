@@ -20,19 +20,8 @@ My film consists of practice film such as throwing and long snapping repetitions
 
 [Watch My Film](./film)
 
-## Big, Fast, Strong.
-
-- **Big**  
-  Currently sized at 6' 3", 220 lbs.
-
-- **Fast**  
-  40 yd. time is 5.2 seconds, 1-mile time is a mid-5 minute range.
-
-- **Strong**  
-  I can Bench 185 lbs., Squat 315 lbs., and Deadlift 375 lbs.
-
 ## Serious Player, Serious Results
-
+### Big, Fast, Strong.
 Class of 2025, QB/LS, 6' 3", 220 lbs., 5.2 sec. 40 yd. Dash, 185 lbs. Bench, 315 lbs. Squat, and 375 lbs. Deadlift.
 
 [Contact Me](./contact-me)
