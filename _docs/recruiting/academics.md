@@ -16,13 +16,13 @@ I have academically received achievements of Honor Roll and Student of the Month
 Other achievements include receiving the Forward Progress Award from Jonathan Casillas, and a grant award for the Butterfly Kindness Initiative Project from the East Brunswick Education Foundation (EBEF). 
 I interned as an Advanced Research Intern at the New Jersey Cyber Crime Integration Cell (NJCCIC) Subdivision of the New Jersey Office of Homeland Security and Preparedness (NJOHSP).
 
-![East Brunswick High School Campus](./images/ebhs.webp)
+![East Brunswick High School Campus](../images/ebhs.webp)
 
 ## Football
 
 I initially joined the Varsity Football Program as a #56 Guard/Defensive Tackle in my sophomore year. The best use of my potential was as a Quarterback and Long Snapper, so I worked hard to try to earn both positions in my junior year. However, I was only successful at LS. Working hard in the offseason, I continued into my senior year to earn the quarterback position and successfully earned the position as #12 Quarterback/LS. I continue to work hard toward a walk-on opportunity at the collegiate level.
 
-![Varsity Football Team](./images/ebhs-football.webp)
+![Varsity Football Team](../images/ebhs-football.webp)
 
 ## Future Business Leaders of America
 
@@ -31,7 +31,7 @@ Inspired to create change in my chapter, I spearheaded the creation of a middle 
 I also worked as a photographer for the chapter, capturing group events, and managing the online presence for the club. 
 As a chapter member, I participated in Regional Competitive Events and Straight to State Events.
 
-![Future Business Leaders of America Logo](./images/fbla.webp)
+![Future Business Leaders of America Logo](../images/fbla.webp)
 
 ## Family, Career, and Community Leaders of America
 
@@ -39,7 +39,7 @@ As a member of FCCLA, I had the opportunity to immerse myself in various leaders
 I participated in hands-on projects and initiatives that promoted family well-being and civic engagement. 
 Through FCCLA, I developed valuable leadership skills by taking part in events that helped me build a deeper connection to the community, while also collaborating with peers on impactful activities that made a difference in both our school and broader community.
 
-![Family, Career and Community Leaders of America Logo](./images/fccla.webp)
+![Family, Career and Community Leaders of America Logo](../images/fccla.webp)
 
 ## Code Club
 
@@ -47,7 +47,7 @@ As an active member of Code Club, I contributed to organizing events like "Hour 
 The club encouraged collaboration through coding challenges and hands-on projects, helping participants grow their technical skills. 
 Through my involvement, I gained a deeper understanding of computer science and helped foster a creative environment where students could explore technology, work together on projects, and share their knowledge of programming.
 
-![Hour of Code Logo](./images/code-club.webp)
+![Hour of Code Logo](../images/code-club.webp)
 
 ## Palette Club
 
@@ -57,10 +57,10 @@ One of the highlights of my time with Palette Club was collaborating with my But
 This interactive event, which was featured in the school art magazine, encouraged students to use sidewalk chalk to create colorful, meaningful messages. 
 Palette Club members worked alongside the Butterfly Kindness Initiative to bring the event to life, combining artistic creativity with a spirit of community engagement.
 
-![Palette Club Logo](./images/palette-club.webp)
+![Palette Club Logo](../images/palette-club.webp)
 
 ## Serious Player, Serious Results
 ### Big, Fast, Strong.
 Class of 2025, QB/LS, 6' 3", 220 lbs., 5.2 sec. 40 yd. Dash, 185 lbs. Bench, 315 lbs. Squat, and 375 lbs. Deadlift.
 
-[Contact Me](./contact-me)
+[Contact Me](../contact-me)
