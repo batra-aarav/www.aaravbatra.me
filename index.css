@@ -1,0 +1,52 @@
+.container-width {
+    width: 90%;
+    max-width: 1150px;
+    margin: 0 auto;
+}
+
+
+.cards {
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-around;
+    flex-flow: wrap;
+}
+
+.card {
+    background-color: #2f3136;
+    height: auto + 100px;
+    width: 300px;
+    margin-bottom: 30px;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 2px;
+    transition: all 0.5s ease;
+    font-weight: 100;
+    overflow: hidden;
+}
+
+.card:hover {
+    margin-top: -5px;
+    box-shadow: 0 20px 30px 0 rgba(0, 0, 0, 0.2);
+}
+
+.card-header {
+
+    background-size: cover;
+    background-position: center center;
+}
+
+
+.card-body {
+    padding: 25px 25px 25px 25px;
+    color: white;
+}
+
+.card-title {
+    font-size: 1.4em;
+    margin-bottom: 5px;
+}
+
+.card-desc {
+    font-size: 0.85rem;
+    line-height: 17px;
+}
