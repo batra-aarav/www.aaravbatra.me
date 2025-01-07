@@ -47,7 +47,7 @@ I have answered the most common questions across Recruit Questionnaires below.
 - **Instagram:** [instagram.com/AaravBatra_12](https://instagram.aaravbatra.me)
 - **LinkedIn:** [linkedin.com/in/AaravBatra](https://linkedin.aaravbatra.me)
 
-## Serious Player, Serious Results
+### Serious Player, Serious Results
 
 Class of 2025, QB/LS, 6' 3", 220 lbs., 5.2 sec. 40 yd. Dash, 185 lbs. Bench, 315 lbs. Squat, and 375 lbs. Deadlift.
 
