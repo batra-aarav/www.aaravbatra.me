@@ -6,8 +6,15 @@ order: 1
 
 I'm ready to take my game to the next level! Click to watch my film playlist below:
 
-<a href="/recruiting/film/" style="display:inline-block; padding:10px 20px; background-color:#FDD700; color:black; text-align:center; border-radius:5px; text-decoration:none; font-size:16px; font-weight:bold;">Film</a>
-<br>
+<link rel="stylesheet" href="/youtube.css/">
+
+<div class="youtube-container">
+  <p class="text-main-content fallback-text" id="i88gpk">
+    If video fails to load, click <a title="YouTube Video" href="https://youtube.aaravbatra.me"> here.</a>
+  </p>
+  <div class="youtube-player" data-id="PLjQt9wmO8brZQytVcwSQKw2X8HW8FdxOa" data-type="playlist"></div>
+</div>
+<script src="/youtube.js/"></script>
 
 ### Transcript and SAT Scores
 
