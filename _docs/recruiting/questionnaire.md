@@ -12,7 +12,7 @@ I have answered the most common questions across Recruit Questionnaires below.
 - **Email:** [aaravbatra@duck.com](mailto:aaravbatra@duck.com)
 - **Phone Number:** [+1 (848) 448-6348](tel:+18484486348)
 - **X (Twitter):** [x.com/AaravBatra_12](https://x.aaravbatra.me)
-- **Head Coach:** Matthew Pazinko
+- **Head Coach:** Andy Steinfeld
 
 ### Academic Information
 
