@@ -51,4 +51,5 @@ I have answered the most common questions across Recruit Questionnaires below.
 #### Big, Fast, Strong.
 Class of 2025, QB/LS, 6' 3", 220 lbs., 5.2 sec. 40 yd. Dash, 185 lbs. Bench, 315 lbs. Squat, and 375 lbs. Deadlift.
 
-[Contact Me](./contact-me)
+<a href="/about/contact-me/" style="display:inline-block; padding:10px 20px; background-color:#FDD700; color:black; text-align:center; border-radius:5px; text-decoration:none; font-size:16px; font-weight:bold;">Contact Me</a>
+<br>
