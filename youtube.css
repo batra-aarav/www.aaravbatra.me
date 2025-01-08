@@ -1,0 +1,118 @@
+.youtube-container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 20px auto;
+    border-radius: 16px;
+    overflow: hidden;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    position: relative;
+}
+
+.youtube-container .fallback-text {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    z-index: -1;
+    text-align: center;
+    width: 100%;
+    margin: 0;
+    color: #ffffff;
+}
+
+.youtube-player {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    position: relative;
+    padding-top: 56.25%; /* 16:9 Aspect Ratio */
+    background: #000;
+    border-radius: 16px;
+}
+
+.youtube-player iframe,
+.youtube-player img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 16px;
+    object-fit: cover;
+}
+
+.youtube-player .thumbnail-shadow {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 120px;
+    background: linear-gradient(to bottom, 
+        rgba(0, 0, 0, 0.7) 0%,
+        rgba(0, 0, 0, 0.4) 40%,
+        rgba(0, 0, 0, 0) 100%
+    );
+    z-index: 1;
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+    pointer-events: none;
+}
+
+.youtube-player::before {
+    display: none;
+}
+
+.youtube-player .video-title-overlay {
+    position: absolute;
+    top: 10px;
+    left: 0;
+    right: 0;
+    padding: 5px 20px;
+    color: white;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    z-index: 2;
+}
+
+.youtube-player img {
+    object-fit: cover;
+    cursor: pointer;
+    transition: all 0.4s ease;
+}
+
+.youtube-player:hover img {
+    filter: brightness(75%);
+}
+
+.youtube-player .play {
+    height: 72px;
+    width: 72px;
+    left: 50%;
+    top: 50%;
+    margin-left: -36px;
+    margin-top: -36px;
+    position: absolute;
+    background: url("./images/youtube.png") no-repeat center;
+    background-size: contain;
+    cursor: pointer;
+    z-index: 2;
+    pointer-events: none;
+}
+
+.youtube-player .video-title-overlay img {
+    width: 40px;
+    height: 40px;
+    position: static;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.youtube-player .video-title-overlay span {
+    flex: 1;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
