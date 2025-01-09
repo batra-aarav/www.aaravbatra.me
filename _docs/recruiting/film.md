@@ -6,7 +6,7 @@ order: 2
 
 I'm ready to take my game to the next level! Click to watch my film playlist below:
 
-<link rel="stylesheet" href="/youtube.css/">
+<link rel="stylesheet" href="/youtube.css">
 
 <div class="youtube-container">
   <p class="text-main-content fallback-text" id="i88gpk">
@@ -14,7 +14,7 @@ I'm ready to take my game to the next level! Click to watch my film playlist bel
   </p>
   <div class="youtube-player" data-id="PLjQt9wmO8brZQytVcwSQKw2X8HW8FdxOa" data-type="playlist"></div>
 </div>
-<script src="/youtube.js/"></script>
+<script src="/youtube.js"></script>
 
 My film consists of practice film such as throwing and long snapping repetitions. 
 I also work on drills such as the 100 yd. Dash, 40 yd. Dash, L-Drill, Broad Jump, Vertical Jump, 5-10-5 (shuttle), accuracy cone knock down drills, and 3 variations of the agility ladder. 
