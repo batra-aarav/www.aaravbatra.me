@@ -6,7 +6,7 @@ order: 1
 
 I'm ready to take my game to the next level! Click to watch my film playlist below:
 
-<link rel="stylesheet" href="/youtube.css/">
+<link rel="stylesheet" href="/youtube.css">
 
 <div class="youtube-container">
   <p class="text-main-content fallback-text" id="i88gpk">
@@ -14,7 +14,7 @@ I'm ready to take my game to the next level! Click to watch my film playlist bel
   </p>
   <div class="youtube-player" data-id="PLjQt9wmO8brZQytVcwSQKw2X8HW8FdxOa" data-type="playlist"></div>
 </div>
-<script src="/youtube.js/"></script>
+<script src="/youtube.js"></script>
 
 ### Transcript and SAT Scores
 
