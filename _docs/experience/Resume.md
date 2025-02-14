@@ -1,3 +1,9 @@
+---
+title: Resume
+category: Experience
+order: 2
+---
+
 <html>
   <head>
     <meta content="text/html; charset=UTF-8" http-equiv="content-type" />
