@@ -2,13 +2,18 @@
 title: Résumé
 category: About
 order: 2
+hide_title: true
 ---
-<p align="center">
-<h1> <b>Aarav Batra</b></h1>
 
-<h2>batra.aarav@outlook.com</h2>
-<h2>+1 (848) 448-6348</h2>
-<h2>East Brunswick, New Jersey</h2>
+<br>
+<p align="center" style="margin-bottom: 0;">
+<h1><b>Aarav Batra</b></h1>
+<br>
+<h2 style="text-align: left; font-size: clamp(10px, 2vw, 20px); margin-top: 0;">
+<span style="display: inline-block;">batra.aarav@outlook.com</span> ❖ 
+<span style="display: inline-block;">(848) 448-6348</span> ❖ 
+<span style="display: inline-block;">East Brunswick, New Jersey</span>
+</h2>
 </p>
 
 <h3>SKILLS & INTERESTS</h3>

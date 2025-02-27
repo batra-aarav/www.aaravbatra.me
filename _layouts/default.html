@@ -54,10 +54,14 @@
 		</header>
 
 		<section class="main">
+			{% unless page.hide_title %}
 			<div class="page-header">
-				<h2>{% if page.category %}{{ page.category }}{% else %}{{ site.title }}{% endif %}</h2>
+				<h2>
+					{% if page.category %}{{ page.category }}{% endif %}
+				</h2>
 				<h3>{{ page.title }}</h3>
 			</div>
+			{% endunless %}
 			<article class="content">
 				{{ content }}
 			</article>
