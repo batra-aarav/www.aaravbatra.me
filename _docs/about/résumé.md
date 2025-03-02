@@ -29,11 +29,13 @@ hide_title: true
 </table>
   * The EBEF awards grants toward creating a positive environment.
   * [chalktowalk.grapedrop.net](https://chalktowalk.grapedrop.net)
+  * [Project Flyer](/images/Butterfly-Kindness-Initiative.png)
 <table style="border: none; width: 100%">
 <tr><td><b>Forward Progress Award</b></td><td style="text-align: right"><b>2022 - 2023</b></td></tr>
 </table>
   * Presented a speech on behalf of Forward Progress led by 2x Super Bowl Champion Jonathan Casillas.
   * [forwardprogresscamp.com](https://forwardprogresscamp.com)
+  * [instagram.com/p/C7-JIXdJV-1](https://www.instagram.com/p/C7-JIXdJV-1)
 <table style="border: none; width: 100%">
 <tr><td><b>Student of the Month</b></td><td style="text-align: right"><b>2021 - 2022</b></td></tr>
 </table>
@@ -101,6 +103,7 @@ hide_title: true
 </table>
 *Leadership and Business Courses*
 * Developing Leaders, Spanish Business, Marketing Capstone, Sports and Entertainment Marketing, Financial Literacy, and Intro Business
+* [Access Transcript](../Aarav-Batra-Transcript.pdf)
 <table style="border: none; width: 100%">
 <tr><td><b>Middlesex College - Dual Enrollment</b></td><td style="text-align: right"><b>2024 - 2025</b></td></tr>
 </table>
