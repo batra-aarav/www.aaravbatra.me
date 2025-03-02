@@ -1,7 +1,7 @@
 ---
 title: Recruit Me
 category: Athletic Recruiting
-order: 1
+order: 3
 ---
 
 I'm ready to take my game to the next level! Click to watch my film playlist below:

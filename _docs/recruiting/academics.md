@@ -1,7 +1,7 @@
 ---
 title: Academics
 category: Athletic Recruiting
-order: 4
+order: 6
 ---
 
 I attend East Brunswick High School in East Brunswick, New Jersey. 
